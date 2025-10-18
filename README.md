@@ -22,23 +22,24 @@ Allows users to submit tasks (title & details) and view them in a list.
 ```bash
 git clone https://github.com/rajeshsahoo14/Notes-App.git  
 cd Notes-App  
-npm install  
-Running
-bash
-Copy code
-npm start
+npm install
+```
+### Running
+```bash
+node index.js
+```
 Then navigate to http://localhost:3000 (or whatever port you set) in your browser.
 
-📁 Folder Structure
-bash
-Copy code
+###📁  Folder Structure
+```bash
 /
 ├── index.js          # main entry point  
 ├── package.json  
 ├── .gitignore  
 └── views/            # EJS templates  
-    └── …  
-✅ Usage
+    └── …
+```  
+###✅ Usage
 Open the app in your browser.
 
 In the form, enter a title and details for your task.
