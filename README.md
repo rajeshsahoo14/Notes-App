@@ -17,7 +17,7 @@ Allows users to submit tasks (title & details) and view them in a list.
 ### Prerequisites  
 - Node.js (v14 or above recommended)  
 - npm (or yarn)  
-
+ 
 ### Installation  
 ```bash
 git clone https://github.com/rajeshsahoo14/Notes-App.git  
