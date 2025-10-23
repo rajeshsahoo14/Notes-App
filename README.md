@@ -48,4 +48,4 @@ Click “Create Task”.
 
 Your new task appears in the list below.
 
-Click “Read more…” to view full details.
+Click “Read more…” to view full details. 
