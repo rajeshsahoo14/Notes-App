@@ -10,7 +10,7 @@ Allows users to submit tasks (title & details) and view them in a list.
 ## 🚀 Tech Stack  
 - Node.js + Express (server & routing)  
 - EJS templates for server-rendered HTML  
-- Tailwind CSS (via CDN) for styling  
+- Tailwind CSS (via CDN) for styling   
 - File-system or simple storage (based on your current implementation) for tasks  
 
 ## 🔧 Getting Started  
