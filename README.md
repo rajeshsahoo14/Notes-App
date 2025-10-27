@@ -4,7 +4,7 @@ Allows users to submit tasks (title & details) and view them in a list.
 
 ## 🧰 Features  
 - Add a new note/task with a **title** and **details**  
-- List existing tasks with a “Read more…” type link  
+- List existing tasks with a “Read more…” type link   
 - Simple UI styled with Tailwind CSS & dark-mode friendly background  
 
 ## 🚀 Tech Stack  
