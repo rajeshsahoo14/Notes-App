@@ -1,7 +1,7 @@
 # Notes-App  
 A simple task/notes application built with Node.js and Express.  
 Allows users to submit tasks (title & details) and view them in a list.  
-
+ 
 ## 🧰 Features  
 - Add a new note/task with a **title** and **details**  
 - List existing tasks with a “Read more…” type link   
